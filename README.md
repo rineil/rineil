@@ -24,12 +24,12 @@
 
 
 ### :man_technologist: About Me :
- I am a Fullstak Developer from Russia <br>
+ I am a Fullstak Developer from Asia <br>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles and study new program languages.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Rineil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rineils)
 
