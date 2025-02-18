@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/-Rineil-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>  
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=rineil&label=Profile%20Visits&style=for-the-badge" />
   <h1>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
